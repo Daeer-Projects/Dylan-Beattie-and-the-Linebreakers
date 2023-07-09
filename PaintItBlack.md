@@ -57,32 +57,32 @@ I'm struggling with the second chorus...
 I see a desktop and I want it to be dark  
 No brightness anymore, let's make it all go dark  
 I see the icons glow, they're burnin' my poor eyes  
-I have to squint so hard until the light theme goes
+I have to squint so hard until the light theme goes  
 
 [Chorus]  
-I see the windows show and they are all dark-themed
+I see the windows show and they are all dark-themed  
 With menus and buttons, no color to attract  
 I see people blinkin' and quickly turn away  
 Like vampires in the sun, the dust is blown away -> doesn't make any sense  
 
 [Verse 2]  
-I look at my browser, the light mode's such a pain
+I look at my browser, the light mode's such a pain  
 I see the toggle button, I must make it dark  
-Maybe then I'll browse with ease and not have to cut and paste
+Maybe then I'll browse with ease and not have to cut and paste  
 It's not easy using Word to read all of the text  
 
 [Chorus]  
-No longer will my screen glow, turning light to dark
-I couldn't foresee the pics all with light backgrounds
+No longer will my screen glow, turning light to dark  
+I couldn't foresee the pics all with light backgrounds  
 
 
 If I scroll long enough through the darkest of the net  
 My eyes won't feel the burn, no more regrets  
 
-I spy a lineup, cloaked in shades of black
-No vivid tones remain, it's the dark theme's knack
-Heads quickly turn, avoiding the vibrant rays
-A daily ritual, lost in the dark theme's maze
+I spy a lineup, cloaked in shades of black  
+No vivid tones remain, it's the dark theme's knack  
+Heads quickly turn, avoiding the vibrant rays  
+A daily ritual, lost in the dark theme's maze  
 
 
 
