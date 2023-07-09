@@ -74,21 +74,12 @@ It's not easy using Word to read all of the text
 [Chorus]  
 No longer will my screen glow, turning light to dark  
 I couldn't foresee the pics all with light backgrounds  
-
-
-If I scroll long enough through the darkest of the net  
-My eyes won't feel the burn, no more regrets  
-
-I spy a lineup, cloaked in shades of black  
-No vivid tones remain, it's the dark theme's knack  
-Heads quickly turn, avoiding the vibrant rays  
-A daily ritual, lost in the dark theme's maze  
-
-
+If we make it dark enough for the nightly search  
+I might find the damn post before the mornin' comes  
 
 [Bridge]  
 I wanna make it, make it, make it dark  
-Dark as night, dark as coal  
+Dark as night, dark as space  
 I wanna make it, make it, make it, make it dark  
 Yeah!  
 
