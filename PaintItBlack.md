@@ -63,7 +63,7 @@ I have to squint so hard until the light theme goes
 I see the windows show and they are all dark-themed  
 With menus and buttons, no color to attract  
 I see people blinkin' and quickly turn away  
-Like vampires in the sun, they hide behind the shade  
+Like moths to a bright flame, they burn their eyes away
 
 [Verse 2]  
 I look at my browser, the light mode's such a pain  
