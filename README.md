@@ -13,8 +13,9 @@ I'll start with the first song that I wrote and have already sent to Dylan Beatt
 ## Songs
 
 * Zombie Code - Zombie by the Cranberries.
-* Make It Dark - Paint It Black by the Rolling Stones (WIP).
+* Make It Dark - Paint It Black by the Rolling Stones.
+* Behind Blue Screen - Behind Blue Eyes by Limp Bizkit.
 
 ### Ideas
 
-I want to write something based on "Behind Blue Eyes" by Limp Bizkit with something like "Nobody knows what its like to be the bad app, behind blue screen."
+This repo is open to any ideas for new songs.
