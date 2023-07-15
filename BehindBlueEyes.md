@@ -12,31 +12,13 @@ To be hated
 To be fated  
 To telling only lies  
   
-[Pre-Chorus]  
+[Chorus]  
 But my dreams, they aren't as empty  
 As my conscience seems to be  
 I have hours, only lonely  
-My love is vengeance  
-That's never free  
-  
-[Chorus]  
-No one knows what it's like  
-To feel these feelings  
-Like I do  
-And I blame you  
-No one bites back as hard  
-On their anger  
-None of my pain and woe  
-Can show through  
+My love is vengeance that's never free  
   
 [Verse 2]  
-But my dreams, they aren't as empty  
-As my conscience seems to be  
-I have hours, only lonely  
-My love is vengeance  
-That's never free  
-  
-[Chorus]  
 No one knows what it's like  
 To feel these feelings  
 Like I do  
@@ -45,20 +27,37 @@ No one bites back as hard
 On their anger  
 None of my pain and woe  
 Can show through  
+
+[Chorus]  
+But my dreams, they aren't as empty  
+As my conscience seems to be  
+I have hours, only lonely  
+My love is vengeance that's never free  
   
 [Bridge]  
-Discover l, mad man  
-Bury my anger  
-Bury my laughter  
-Bury my laughter  
-How does it feel?  
-How does it feel?  
-To be without a home  
-Like a complete unknown  
-Like a rolling stone  
+Discover  
+L-I-M-P, say it, discover  
+L-I-M-P, say it, discover  
+L-I-M-P, say it, discover  
+L-I-M-P, say it, discover  
   
+[Verse 3]  
+No one knows what it's like  
+To be mistreated  
+To be defeated  
+Behind blue eyes  
+And no one knows how to say  
+That they're sorry  
+And don't worry  
+I'm not tellin' lies  
+  
+[Chorus]  
+But my dreams, they aren't as empty  
+As my conscience seems to be  
+I have hours, only lonely  
+My love is vengeance that's never free  
+
 [Outro]  
-Ah, ah, ah  
 No one knows what it's like  
 To be the bad man  
 To be the sad man  
@@ -66,64 +65,63 @@ Behind blue eyes
 
 ## Alternative Lyrics
 
-[Verse 1]  
+[Verse1]  
 No one knows what it's like  
 To be the bad app  
-To be the sad chap  
+To be the sad app  
 Behind blue screen  
 And no one knows what it's like  
-To be outdated  
-To be frustrated  
-With endless routine  
+To be hated  
+To be dated  
+To produce only logs
   
-[Pre-Chorus]  
-But my code, it isn't flawless  
+[Chorus]  
+But my code, it's not as flawless  
 As my logic seems to be  
 I have bugs, only solace  
-My love is coding  
-That's never free  
+My love is coding that's never free  
   
-[Chorus]  
+[Verse2]  
 No one knows what it's like  
-To debug my life  
-Day and night  
-And I blame you  
-No one crashes back as hard  
-On their keyboard  
-None of my files and code  
-Can break through  
-  
-[Verse 2]  
-But my code, it isn't flawless  
-As my logic seems to be  
-I have lines, only endless  
-My love is coding  
-That's never free  
-  
-[Chorus]  
-No one knows what it's like  
-To code with passion  
+To debug errors  
 Like I do  
 And I blame you  
-No one glitches back as hard  
-On their circuit  
-None of my bytes and scripts  
-Can breakthrough  
+No one hits back as hard  
+On their PRs  
+None of my code or hacks  
+Can get through  
+  
+[Chorus]  
+But my code, it's not as flawless  
+As my logic seems to be  
+I have bugs, only solace  
+My love is coding that's never free  
   
 [Bridge]  
-Discover, I'm a nerd  
-Hiding my laughter  
-Behind my master  
-Behind my master  
-How does it compute?  
-How does it compute?  
-To be without Wi-Fi  
-Like a disconnected guy  
-Like a USB drive  
+Discover  
+L-I-M-P, say it, discover  
+L-I-M-P, say it, discover  
+L-I-M-P, say it, discover  
+L-I-M-P, say it, discover  
+
+[Verse3]  
+No one knows what it's like  
+To be installed  
+To be corrupted  
+Behind blue screen  
+And no one knows how to say  
+That they're sorry  
+And don't worry  
+I have more backups
   
+[Chorus]  
+But my code, it's not as flawless  
+As my logic seems to be  
+I have bugs, only solace  
+My love is coding that's never free  
+
 [Outro]  
-Ah, ah, ah  
 No one knows what it's like  
 To be the bad app  
-To be the sad chap  
+To be the sad app  
 Behind blue screen  
